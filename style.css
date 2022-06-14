@@ -1,0 +1,22 @@
+*{ background-color: rgb(124, 245, 124);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    font-size: 30px;
+}
+
+h3 a{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(114, 4, 114);
+}
+
+.fecha{
+    font-size: 10px;
+    color: rgb(123, 120, 120)
+}
+
+span{
+    background-color: rgb(156, 153, 153);
+}
